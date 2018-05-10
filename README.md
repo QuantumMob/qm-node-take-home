@@ -37,6 +37,6 @@ It is up to you to decide what information will be saved in the DB, i.e.
 you are responsible for the API schema and data structures.
 
 Please submit your results in a separate repository. We are looking
-forward to see how you structure your code, what technology you use,
+forward to see how you structure your code, what frameworks you use,
 how you make API design decisions, what type of data you store etc.
 
