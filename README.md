@@ -1,14 +1,12 @@
 # Quantum Mob ES6/Fullstack Test
 
-## Introduction
-
 This task is meant to test your API design skills, front-end Javascript, as well as ES6 knowledge.
 
 ## Instructions
 
 You are required to design and implement an API & a new and shiny web app for car repair shops. Thus, there is a certain amount of functionality that we need to provide to them.
 
-The database is currently set up to use a local MongoDB database.
+The database is currently set up to use a local MongoDB database and the project is built on top of Razzle. This will provide a minimum configuration boilerplate for your back-end and front-end. If interested, read more here: [https://github.com/jaredpalmer/razzle](https://github.com/jaredpalmer/razzle)
 
 **To get started:**
 1. Install MongoDB locally and start with `sudo mongod`
