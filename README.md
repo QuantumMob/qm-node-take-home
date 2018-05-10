@@ -38,5 +38,5 @@ you are responsible for the API schema and data structures.
 
 Please submit your results in a separate repository. We are looking
 forward to see how you structure your code, what technology you use,
-how you make API design decisions, how you document the API etc.
+how you make API design decisions, what type of data you store etc.
 
