@@ -18,6 +18,7 @@ The database is currently set up to use a local MongoDB database and the project
 1. Use React, Vue, or Angular
 2. Use Node.js
 3. Use Express
+4. Use MongoDB with Mongoose ODM
 
 ### Frontend
 
@@ -33,6 +34,8 @@ including some basic information.
 
 It is up to you to decide what information will be saved in the DB, i.e.
 you are responsible for the API schema and data structures.
+
+*Feel free to use the boilerplate provided inside the `src/` folder or use your own*
 
 Please submit your results in a separate repository. We are looking
 forward to see how you structure your code, what frameworks you use,
